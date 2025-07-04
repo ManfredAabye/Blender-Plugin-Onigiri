@@ -30,3 +30,4 @@
 2. Sidebar öffnen (`N`) und zu **Onigiri** navigieren
 3. Funktionen wie `Prepare SL Rig` oder `Apply T-Pose` verwenden
 4. Exportieren und direkt in SL OPENSIM verwenden
+.
